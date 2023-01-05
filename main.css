@@ -32,3 +32,30 @@ html {
     background-color: royalblue;
     color: lightblue;
 }
+.linkerzijde {
+    display: flex;
+    float: left;
+    width: 30%;
+}
+.rechterzijde {
+    display: flex;
+    float: left;
+    flex-direction: column;
+    width: 70%;
+
+}
+.rechterzijde_tekst {
+    padding: 60px;
+    margin: 40px;
+}
+.profielfoto {
+    height: 320px;
+    width: 250px;
+    padding: 80px;
+}
+
+p {
+    color: lightslategray;
+    font-size: 17px;
+
+}

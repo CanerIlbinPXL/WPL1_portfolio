@@ -32,3 +32,21 @@ html {
     background-color: royalblue;
     color: lightblue;
 }
+p {
+    font-size: 17px;
+    color: lightslategray;
+}
+h2 {
+    font-size: 23px;
+    color: darkslateblue;
+}
+.container_info {
+    margin: 5px;
+    padding: 15px;
+}
+.eerstevraag {
+    padding: 15px;
+}
+.tweedevraag {
+    padding: 15px;
+}

@@ -1,0 +1,77 @@
+html {
+    background: url("Assets/1550170.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: medium;
+}
+html, body, .navigatiebalk{
+    width: 100%;
+}
+.titelportfolio {
+    text-align: center;
+    color: lightslategray;
+}
+.navigatiebalk {
+    background-color: darkslateblue;
+    overflow: hidden;
+    margin-bottom: 25px;
+}
+.navigatiebalk a {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 65px;
+    font-size: 17px;
+    color: lightslategray;
+}
+.navigatiebalk a:hover
+{
+    background-color: lightslategray;
+    color: darkslateblue;
+}
+.navigatiebalk a.actief
+{
+    background-color: royalblue;
+    color: lightblue;
+}
+table.TabelCompetenties {
+    width: 75%;
+    background-color: white;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: darkslateblue;
+    border-style: solid;
+    color: lightslategray;
+    margin: 0 auto;
+}
+
+table.TabelCompetenties td, table.TabelCompetenties th {
+    border-width: 1px;
+    border-color: darkslateblue;
+    border-style: solid;
+    padding: 5px;
+}
+
+table.TabelCompetenties thead {
+    background-color: darkslateblue;
+}
+td {
+    width: 5%;
+}
+td+td {
+    width: auto;
+}
+h2 {
+    text-align: center;
+    color: darkslateblue;
+}
+dt, dd {
+    color: lightslategray;
+}
+
+dt {
+
+    font-weight: bold;
+}
