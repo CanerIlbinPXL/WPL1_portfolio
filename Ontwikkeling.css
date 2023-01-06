@@ -13,7 +13,7 @@ html {
 .navigatiebalk {
     background-color: darkslateblue;
     overflow: hidden;
-    margin-bottom: 18px;
+    margin-bottom: 25px;
 }
 .navigatiebalk a {
     float: left;
@@ -33,15 +33,7 @@ html {
     background-color: royalblue;
     color: lightblue;
 }
-p {
-    font-size: 17px;
-    color: lightblue;
-}
-h2 {
-    font-size: 23px;
-    color: darkslateblue;
-}
-.container_info {
+.container_ontwikkeling {
     margin: 5px;
     padding: 15px;
 }
@@ -53,6 +45,20 @@ h2 {
 }
 .tweedevraag {
     padding: 15px;
+    margin-bottom: 30px;
     border: 1px solid darkslateblue;
     background-color: royalblue;
+}
+.derdevraag {
+    padding: 15px;
+    border: 1px solid darkslateblue;
+    background-color: royalblue;
+}
+p {
+    font-size: 17px;
+    color: lightblue;
+}
+h2 {
+    font-size: 23px;
+    color: darkslateblue;
 }

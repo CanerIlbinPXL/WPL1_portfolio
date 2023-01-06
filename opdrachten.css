@@ -1,0 +1,102 @@
+html {
+    background: url("Assets/1550170.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: medium;
+}
+.titelportfolio {
+    text-align: center;
+    color: lightslategray;
+}
+.navigatiebalk {
+    background-color: darkslateblue;
+    overflow: hidden;
+    margin-bottom: 35px;
+}
+.navigatiebalk a {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 64px;
+    font-size: 17px;
+    color: lightslategray;
+}
+.navigatiebalk a:hover
+{
+    background-color: lightslategray;
+    color: darkslateblue;
+}
+.navigatiebalk a.actief
+{
+    background-color: royalblue;
+    color: lightblue;
+}
+p {
+    font-size: 17px;
+    color: lightblue;
+}
+.LemoEnKyss {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 2px solid darkslateblue;
+    background-color: royalblue;
+    width: 50%;
+}
+.LemoFoto {
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+}
+.LemoFoto:hover {
+    box-shadow: darkslateblue 4px 4px 4px 4px;
+}
+.KyssFoto {
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+}
+.KyssFoto:hover {
+    box-shadow: darkslateblue 4px 4px 4px 4px;
+}
+.wordfoto {
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+}
+.wordfoto:hover {
+    box-shadow: darkslateblue 4px 4px 4px 4px;
+}
+.bestandenLemoEnKyss {
+    justify-content: space-between;
+}
+h2 {
+    text-align: center;
+    color: darkslateblue;
+}
+h3 {
+    color: darkslateblue;
+}
+.POPreflectie {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 2px solid darkslateblue;
+    background-color: royalblue;
+    width: 50%;
+}
+@media only screen and (max-width: 800px) {
+  .navigatiebalk, .container_opdrachten {
+      width: 100%;
+  }
+}
