@@ -19,7 +19,7 @@ html {
     float: left;
     text-align: center;
     text-decoration: none;
-    padding: 20px 65px;
+    padding: 20px 64px;
     font-size: 17px;
     color: lightslategray;
 }
@@ -33,24 +33,13 @@ html {
     background-color: royalblue;
     color: lightblue;
 }
-.container_ontwikkeling {
+.container_reflectie {
     margin: 5px;
     padding: 15px;
 }
-.eerstevraag {
+.sterktesprof, .sterktesperson , .zwaktesperson, .zwaktesprof {
     padding: 15px;
     margin-bottom: 30px;
-    border: 1px solid darkslateblue;
-    background-color: royalblue;
-}
-.tweedevraag {
-    padding: 15px;
-    margin-bottom: 30px;
-    border: 1px solid darkslateblue;
-    background-color: royalblue;
-}
-.derdevraag {
-    padding: 15px;
     border: 1px solid darkslateblue;
     background-color: royalblue;
 }

@@ -73,6 +73,14 @@ p {
 .wordfoto:hover {
     box-shadow: darkslateblue 4px 4px 4px 4px;
 }
+.excelfoto {
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+}
+.excelfoto:hover {
+    box-shadow: darkslateblue 4px 4px 4px 4px;
+}
 .bestandenLemoEnKyss {
     justify-content: space-between;
 }
@@ -84,6 +92,42 @@ h3 {
     color: darkslateblue;
 }
 .POPreflectie {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 2px solid darkslateblue;
+    background-color: royalblue;
+    width: 50%;
+}
+.POPplanning {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 2px solid darkslateblue;
+    background-color: royalblue;
+    width: 50%;
+}
+.BlackJack {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 2px solid darkslateblue;
+    background-color: royalblue;
+    width: 50%;
+}
+.CV {
     margin: auto;
     display: flex;
     flex-direction: column;

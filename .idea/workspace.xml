@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7733a6c0-7278-46c0-b4b5-f77bb19dceef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/logboek.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logboek.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflectie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflectie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ontwikkeling.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competenties.css" beforeDir="false" afterPath="$PROJECT_DIR$/competenties.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten.css" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JrwKntQGfXRRNPWO9p8FSn2yF0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Caner/WebstormProjects/WPL1_portfolio&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7733a6c0-7278-46c0-b4b5-f77bb19dceef" name="Changes" comment="" />
+      <created>1672849448487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672849448487</updated>
+      <workItem from="1672849450115" duration="5507000" />
+      <workItem from="1672938341191" duration="7756000" />
+      <workItem from="1672998443908" duration="5009000" />
+      <workItem from="1673021382868" duration="641000" />
+      <workItem from="1673026549012" duration="4209000" />
+      <workItem from="1673098332193" duration="3518000" />
+      <workItem from="1673110075249" duration="300000" />
+      <workItem from="1673111894959" duration="4072000" />
+    </task>
+    <task id="LOCAL-00001" summary="Eerste commit&#10;- file portfolio.html en portfolio.css">
+      <created>1672849849374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672849849374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Eerste commit&#10;- file portfolio.html en portfolio.css&#10;- main gedaan&#10;- info gedaan&#10;- competenties ongoing">
+      <created>1672953144721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672953144721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Eerste commit&#10;- file portfolio.html en portfolio.css&#10;- main gedaan&#10;- info gedaan&#10;- competenties gedaan&#10;- opdrachten bezig&#10;- ontwikkeling bezig">
+      <created>1673030677739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673030677739</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Eerste commit&#10;- file portfolio.html en portfolio.css&#10;- main gedaan&#10;- info gedaan&#10;- competenties gedaan&#10;- opdrachten bezig&#10;- ontwikkeling bezig&#10;- Assets toegevoegd">
+      <created>1673030729486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673030729486</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Eerste commit&#10;- file portfolio.html en portfolio.css" />
+    <MESSAGE value="Eerste commit&#10;- file portfolio.html en portfolio.css&#10;- main gedaan&#10;- info gedaan&#10;- competenties ongoing" />
+    <MESSAGE value="Eerste commit&#10;- file portfolio.html en portfolio.css&#10;- main gedaan&#10;- info gedaan&#10;- competenties gedaan&#10;- opdrachten bezig&#10;- ontwikkeling bezig" />
+    <MESSAGE value="Eerste commit&#10;- file portfolio.html en portfolio.css&#10;- main gedaan&#10;- info gedaan&#10;- competenties gedaan&#10;- opdrachten bezig&#10;- ontwikkeling bezig&#10;- Assets toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eerste commit&#10;- file portfolio.html en portfolio.css&#10;- main gedaan&#10;- info gedaan&#10;- competenties gedaan&#10;- opdrachten bezig&#10;- ontwikkeling bezig&#10;- Assets toegevoegd" />
+  </component>
+</project>

@@ -6,6 +6,9 @@ html {
     background-size: cover;
     font-size: medium;
 }
+html, body, .navigatiebalk{
+    width: 100%;
+}
 .titelportfolio {
     text-align: center;
     color: lightslategray;
@@ -33,32 +36,20 @@ html {
     background-color: royalblue;
     color: lightblue;
 }
-.container_ontwikkeling {
-    margin: 5px;
-    padding: 15px;
+.container_tabelLogboek {
+    width: 85%;
+    background-color: white;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: darkslateblue;
+    border-style: solid;
+    margin: 0 auto;
+    color: lightslategray;
 }
-.eerstevraag {
-    padding: 15px;
-    margin-bottom: 30px;
-    border: 1px solid darkslateblue;
-    background-color: royalblue;
+.container_tabelLogboek td, .container_tabelLogboek th {
+    padding: 5px;
 }
-.tweedevraag {
-    padding: 15px;
-    margin-bottom: 30px;
-    border: 1px solid darkslateblue;
-    background-color: royalblue;
-}
-.derdevraag {
-    padding: 15px;
-    border: 1px solid darkslateblue;
-    background-color: royalblue;
-}
-p {
-    font-size: 17px;
-    color: lightblue;
-}
-h2 {
-    font-size: 23px;
+.container_tabelLogboek thead {
+    background-color: darkslateblue;
     color: white;
 }
