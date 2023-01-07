@@ -53,3 +53,13 @@ html, body, .navigatiebalk{
     background-color: darkslateblue;
     color: white;
 }
+@media only screen and (max-width: 480px) {
+    .navigatiebalk, .container_tabelLogboek {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .navigatiebalk, .container_tabelLogboek {
+        width: 100%;
+    }
+}

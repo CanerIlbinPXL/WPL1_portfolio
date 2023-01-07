@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7733a6c0-7278-46c0-b4b5-f77bb19dceef" name="Changes" comment="Eerste commit&#10;- Alle tabs zijn af&#10;- Assets toegevoegd">
-      <change afterPath="$PROJECT_DIR$/CV.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/1550170.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/1star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/313936406_3368525173378272_9075317187402944329_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/319672451_1056473758546965_6238134930313798144_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/340452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/asset_1ster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/asset_2ster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/asset_3ster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/birthday-cake-xxl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/huis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/linkedin_black_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/mail-xxl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets_cv/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv.css" afterDir="false" />
+    <list default="true" id="7733a6c0-7278-46c0-b4b5-f77bb19dceef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ontwikkeling.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ontwikkeling.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/competenties.css" beforeDir="false" afterPath="$PROJECT_DIR$/competenties.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/competenties.html" beforeDir="false" afterPath="$PROJECT_DIR$/competenties.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/info.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logboek.html" beforeDir="false" afterPath="$PROJECT_DIR$/logboek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logboek.css" beforeDir="false" afterPath="$PROJECT_DIR$/logboek.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/opdrachten.css" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflectie.html" beforeDir="false" afterPath="$PROJECT_DIR$/reflectie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reflectie.css" beforeDir="false" afterPath="$PROJECT_DIR$/reflectie.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +63,7 @@
       <workItem from="1673026549012" duration="4209000" />
       <workItem from="1673098332193" duration="3518000" />
       <workItem from="1673110075249" duration="300000" />
-      <workItem from="1673111894959" duration="6439000" />
+      <workItem from="1673111894959" duration="7269000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste commit&#10;- file portfolio.html en portfolio.css">
       <created>1672849849374</created>
@@ -119,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673119865848</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Eerste commit&#10;- Alle tabs zijn af&#10;- Assets toegevoegd">
+      <created>1673125775275</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673125775275</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

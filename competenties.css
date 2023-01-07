@@ -79,4 +79,14 @@ dt {
 .container_vragen {
  float: left;
 }
+@media only screen and (max-width: 480px) {
+    .navigatiebalk, .container_vragen, .container_tabel{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .navigatiebalk, .container_vragen, .container_tabel {
+        width: 100%;
+    }
+}
 

@@ -144,3 +144,8 @@ h3 {
       width: 100%;
   }
 }
+@media only screen and (max-width: 480px) {
+    .navigatiebalk, .container_opdrachten {
+        width: 100%;
+    }
+}
