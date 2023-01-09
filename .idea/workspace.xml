@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7733a6c0-7278-46c0-b4b5-f77bb19dceef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Microsoft_Office_Excel_(2019–present).svg.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CV.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,8 @@
       <workItem from="1673111894959" duration="7912000" />
       <workItem from="1673216029999" duration="303000" />
       <workItem from="1673269828190" duration="626000" />
-      <workItem from="1673273733147" duration="31000" />
+      <workItem from="1673273733147" duration="410000" />
+      <workItem from="1673275117082" duration="918000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste commit&#10;- file portfolio.html en portfolio.css">
       <created>1672849849374</created>
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673126625923</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Eerste commit&#10;- Alle tabs zijn af&#10;- Assets toegevoegd&#10;- Responsive gemaakt">
+      <created>1673273806180</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673273806180</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
