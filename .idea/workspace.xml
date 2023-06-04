@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7733a6c0-7278-46c0-b4b5-f77bb19dceef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logboek2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logboek2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logboek2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdrachten2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdrachten2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflectie2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflectie2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ontwikkeling.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ontwikkeling.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/competenties.css" beforeDir="false" afterPath="$PROJECT_DIR$/competenties.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/competenties.html" beforeDir="false" afterPath="$PROJECT_DIR$/competenties.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.css" beforeDir="false" afterPath="$PROJECT_DIR$/cv.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/info.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logboek.css" beforeDir="false" afterPath="$PROJECT_DIR$/logboek.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logboek.html" beforeDir="false" afterPath="$PROJECT_DIR$/logboek.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdrachten.css" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflectie.css" beforeDir="false" afterPath="$PROJECT_DIR$/reflectie.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflectie.html" beforeDir="false" afterPath="$PROJECT_DIR$/reflectie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten2.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reflectie2.html" beforeDir="false" afterPath="$PROJECT_DIR$/reflectie2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +67,8 @@
       <workItem from="1677052660474" duration="58000" />
       <workItem from="1685878714814" duration="1778000" />
       <workItem from="1685881472343" duration="428000" />
-      <workItem from="1685898502834" duration="3204000" />
+      <workItem from="1685898502834" duration="3319000" />
+      <workItem from="1685914573753" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste commit&#10;- file portfolio.html en portfolio.css">
       <created>1672849849374</created>
@@ -155,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673280757010</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="onderdelen wpl2 portfolio">
+      <created>1685901801806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685901801807</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +154,7 @@
     <MESSAGE value="Eerste commit&#10;- file portfolio.html en portfolio.css&#10;- main gedaan&#10;- info gedaan&#10;- competenties gedaan&#10;- opdrachten gedaan&#10;- ontwikkeling bezig&#10;- logboek gedaan&#10;- reflectie gedaan&#10;- Assets toegevoegd" />
     <MESSAGE value="Eerste commit&#10;- Alle tabs zijn af&#10;- Assets toegevoegd" />
     <MESSAGE value="Eerste commit&#10;- Alle tabs zijn af&#10;- Assets toegevoegd&#10;- Responsive gemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eerste commit&#10;- Alle tabs zijn af&#10;- Assets toegevoegd&#10;- Responsive gemaakt" />
+    <MESSAGE value="onderdelen wpl2 portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="onderdelen wpl2 portfolio" />
   </component>
 </project>
