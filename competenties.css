@@ -22,10 +22,11 @@ html, body, .navigatiebalk{
     float: left;
     text-align: center;
     text-decoration: none;
-    padding: 20px 65px;
+    padding: 20px 27.8px;
     font-size: 17px;
     color: lightslategray;
 }
+
 .navigatiebalk a:hover
 {
     background-color: lightslategray;

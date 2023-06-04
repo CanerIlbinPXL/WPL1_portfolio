@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7733a6c0-7278-46c0-b4b5-f77bb19dceef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/logboek2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logboek2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logboek2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdrachten2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdrachten2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflectie2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflectie2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV.js" beforeDir="false" afterPath="$PROJECT_DIR$/CV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ontwikkeling.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ontwikkeling.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ontwikkeling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competenties.css" beforeDir="false" afterPath="$PROJECT_DIR$/competenties.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competenties.html" beforeDir="false" afterPath="$PROJECT_DIR$/competenties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.css" beforeDir="false" afterPath="$PROJECT_DIR$/cv.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info.css" beforeDir="false" afterPath="$PROJECT_DIR$/info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logboek.css" beforeDir="false" afterPath="$PROJECT_DIR$/logboek.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logboek.html" beforeDir="false" afterPath="$PROJECT_DIR$/logboek.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten.css" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdrachten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reflectie.css" beforeDir="false" afterPath="$PROJECT_DIR$/reflectie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reflectie.html" beforeDir="false" afterPath="$PROJECT_DIR$/reflectie.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +39,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,7 +85,12 @@
       <workItem from="1673216029999" duration="303000" />
       <workItem from="1673269828190" duration="626000" />
       <workItem from="1673273733147" duration="410000" />
-      <workItem from="1673275117082" duration="918000" />
+      <workItem from="1673275117082" duration="1228000" />
+      <workItem from="1676983426724" duration="601000" />
+      <workItem from="1677052660474" duration="58000" />
+      <workItem from="1685878714814" duration="1778000" />
+      <workItem from="1685881472343" duration="428000" />
+      <workItem from="1685898502834" duration="3204000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste commit&#10;- file portfolio.html en portfolio.css">
       <created>1672849849374</created>
@@ -118,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673273806180</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Eerste commit&#10;- Alle tabs zijn af&#10;- Assets toegevoegd&#10;- Responsive gemaakt">
+      <created>1673280757010</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673280757010</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

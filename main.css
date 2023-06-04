@@ -13,25 +13,28 @@ html {
 .navigatiebalk {
     background-color: darkslateblue;
     overflow: hidden;
+    position: relative; /* Toegevoegd voor positionering van de dropdown */
 }
+
 .navigatiebalk a {
     float: left;
     text-align: center;
     text-decoration: none;
-    padding: 20px 65px;
+    padding: 20px 27.8px;
     font-size: 17px;
     color: lightslategray;
 }
-.navigatiebalk a:hover
-{
+
+.navigatiebalk a:hover {
     background-color: lightslategray;
     color: darkslateblue;
 }
-.navigatiebalk a.actief
-{
+
+.navigatiebalk a.actief {
     background-color: royalblue;
     color: lightblue;
 }
+
 .linkerzijde {
     display: flex;
     float: left;
@@ -69,3 +72,4 @@ p {
         width: 100%;
     }
 }
+

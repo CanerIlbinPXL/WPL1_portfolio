@@ -1,0 +1,104 @@
+html {
+    background: url("Assets/1550170.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: medium;
+}
+.titelportfolio {
+    text-align: center;
+    color: lightslategray;
+}
+.navigatiebalk {
+    background-color: darkslateblue;
+    overflow: hidden;
+    position: relative; /* Toegevoegd voor positionering van de dropdown */
+}
+
+.navigatiebalk a {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 27.8px;
+    font-size: 17px;
+    color: lightslategray;
+}
+
+.navigatiebalk a:hover {
+    background-color: lightslategray;
+    color: darkslateblue;
+}
+
+.navigatiebalk a.actief {
+    background-color: royalblue;
+    color: lightblue;
+}
+
+.linkerzijde {
+    display: flex;
+    float: left;
+    width: 30%;
+}
+.rechterzijde {
+    display: flex;
+    float: left;
+    flex-direction: column;
+    width: 70%;
+
+}
+.rechterzijde_tekst {
+    padding: 60px;
+    margin: 40px;
+}
+.profielfoto {
+    height: 320px;
+    width: 250px;
+    padding: 80px;
+}
+
+p {
+    color: lightslategray;
+    font-size: 17px;
+
+}
+@media only screen and (max-width: 480px) {
+    .navigatiebalk, .linkerzijde, .rechterzijde {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .navigatiebalk, .linkerzijde, .rechterzijde {
+        width: 100%;
+    }
+}
+.container_reflectie {
+    margin: 5px;
+    padding: 15px;
+}
+.eindref {
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 1px solid darkslateblue;
+    background-color: royalblue;
+}
+p {
+    font-size: 17px;
+    color: lightblue;
+}
+h2 {
+    font-size: 23px;
+    color: white;
+    text-align: center;
+}
+@media only screen and (max-width: 800px) {
+    .navigatiebalk, .container_reflectie {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .navigatiebalk, .container_reflectie {
+        width: 100%;
+    }
+}
+

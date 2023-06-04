@@ -15,11 +15,12 @@ html {
     overflow: hidden;
     margin-bottom: 25px;
 }
+
 .navigatiebalk a {
     float: left;
     text-align: center;
     text-decoration: none;
-    padding: 20px 64px;
+    padding: 20px 27.8px;
     font-size: 17px;
     color: lightslategray;
 }
